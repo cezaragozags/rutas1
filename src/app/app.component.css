@@ -1,0 +1,21 @@
+h1{
+  color: red;
+}
+
+a{
+  padding: 15px;
+  text-decoration: none;
+  background-color: #f7c096;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+nav a:hover{
+  background-color: #f3b65b;
+  color:white;
+}
+
+nav a:active{
+  color: chocolate;
+}
